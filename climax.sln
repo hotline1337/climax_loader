@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "climax", "climax\climax.csproj", "{EA9F95C8-C4F5-4939-A6B8-DAF0ECFDD821}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA9F95C8-C4F5-4939-A6B8-DAF0ECFDD821}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA9F95C8-C4F5-4939-A6B8-DAF0ECFDD821}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA9F95C8-C4F5-4939-A6B8-DAF0ECFDD821}.Debug|x64.ActiveCfg = Debug|x64
+		{EA9F95C8-C4F5-4939-A6B8-DAF0ECFDD821}.Debug|x64.Build.0 = Debug|x64
+		{EA9F95C8-C4F5-4939-A6B8-DAF0ECFDD821}.Debug|x86.ActiveCfg = Debug|x86
+		{EA9F95C8-C4F5-4939-A6B8-DAF0ECFDD821}.Debug|x86.Build.0 = Debug|x86
+		{EA9F95C8-C4F5-4939-A6B8-DAF0ECFDD821}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA9F95C8-C4F5-4939-A6B8-DAF0ECFDD821}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA9F95C8-C4F5-4939-A6B8-DAF0ECFDD821}.Release|x64.ActiveCfg = Release|x64
+		{EA9F95C8-C4F5-4939-A6B8-DAF0ECFDD821}.Release|x64.Build.0 = Release|x64
+		{EA9F95C8-C4F5-4939-A6B8-DAF0ECFDD821}.Release|x86.ActiveCfg = Release|x86
+		{EA9F95C8-C4F5-4939-A6B8-DAF0ECFDD821}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EC06AAD2-57AE-41E1-9EAC-3BD045120D54}
+	EndGlobalSection
+EndGlobal
