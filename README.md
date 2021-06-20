@@ -1,6 +1,6 @@
 # clim.ax loader
 
-A simple C# loader using Manual Map to map the dll into a csgo process
+A simple P2C C# loader using Manual Map to map the dll into a csgo process
 
 ## Disclaimer
 No PHP or Server-Side files are included with this source. Comments have been stripped out and most strings have been deleted.
